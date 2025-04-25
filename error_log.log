@@ -1,0 +1,6 @@
+2025-04-14 09:48:18,882 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Kernel.poll_control_queue() running at /opt/tljh/user/lib/python3.10/site-packages/ipykernel/kernelbase.py:304> wait_for=<Future finished result=<Future at 0x...state=pending>> cb=[_chain_future.<locals>._call_set_state() at /opt/tljh/user/lib/python3.10/asyncio/futures.py:392]>
+2025-04-14 10:18:16,306 - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-21 15:10:47,148 - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-21 15:16:59,335 - ERROR - No such comm target registered: jupyter.widget.control
+2025-04-21 15:33:51,911 - ERROR - No such comm target registered: jupyter.widget.control
